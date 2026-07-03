@@ -1,6 +1,6 @@
 # 🏥 Secure Clinic CRM - Hệ thống Quản lý Bệnh nhân và Lịch hẹn
 
-**Secure Clinic CRM** là hệ thống quản trị quy trình khám chữa bệnh tại phòng khám tư nhân, được xây dựng dựa trên kiến trúc **MVC (Model-View-Controller)** với mục tiêu tối ưu hóa nghiệp vụ, đảm bảo tính bảo mật và hiệu năng cao.
+**Secure Clinic CRM** là hệ thống quản trị quy trình khám chữa bệnh tại phòng khám tư nhân, được xây dựng dựa trên kiến trúc MVC (Model-View-Controller) với mục tiêu tối ưu hóa nghiệp vụ, đảm bảo tính bảo mật và hiệu năng cao.
 
 ---
 
